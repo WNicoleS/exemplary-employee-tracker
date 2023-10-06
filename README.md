@@ -28,11 +28,13 @@ This application allows users to keep track of their employess, role title, sala
 
 ## Usage
 
+
 In the terminal:
 - Run npm install
 - Run npm i sql2
 - Run npm i inquirer@8.2.4
 - Then, run node index.js
+
     
 From there, you will prompted with a series of options that you can select:
 - View All Employess: See all of the employees, their role, department, manager, and salary.
@@ -43,6 +45,7 @@ From there, you will prompted with a series of options that you can select:
 - View All Departments: See all of the departments.
 - Add Department: Add a new department.
 - Quit: Leave application
+
 
     ```md
     ![alt text](assets/images/screenshot.png)
