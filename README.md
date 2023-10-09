@@ -4,7 +4,7 @@
 
 ## Description
 
-This application allows users to keep track of their employess, role title, salary, department, and manager.
+This application allows users to keep track of their employes, role title, salary, department, and manager.
 
 ## Table of Contents
 
