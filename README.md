@@ -46,10 +46,7 @@ From there, you will prompted with a series of options that you can select:
 - Add Department: Add a new department.
 - Quit: Leave application
 
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![alt text](assets/images/screenshot.png)
 
 ## Credits
 
