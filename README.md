@@ -46,7 +46,7 @@ From there, you will prompted with a series of options that you can select:
 - Add Department: Add a new department.
 - Quit: Leave application
 
-![alt text](assets/images/screenshot.png)
+![screenshot of options listed in terminal](assets/images/employee-tracker.png)
 
 ## Credits
 
