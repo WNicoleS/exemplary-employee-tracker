@@ -48,6 +48,8 @@ From there, you will prompted with a series of options that you can select:
 
 ![screenshot of options listed in terminal](assets/images/employee-tracker.png)
 
+Video guide: https://watch.screencastify.com/v/2btApRi5i7cRNMHx3p5c
+
 ## Credits
 
 Followed this tutorial on how to connect the database: https://www.w3schools.com/nodejs/nodejs_mysql_insert.asp
