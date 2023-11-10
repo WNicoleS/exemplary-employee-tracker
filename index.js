@@ -1,6 +1,6 @@
 // npm install of inquirer and mysql2 (in config) required
 const inquirer = require("inquirer");
-const con = require("./config/connection.js");
+const con = require("./assets/config/connection.js");
 
 // options that will appear when prompted
 const questions = [
